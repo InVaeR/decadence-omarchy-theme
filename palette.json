@@ -1,0 +1,75 @@
+{
+  "name": "Decadence",
+  "description": "Тёмная тема с золотыми акцентами и мраморным белым",
+  "wallpapers": [
+    "Wallpapers/Decadence_1.png",
+    "Wallpapers/Decadence_2.png",
+    "Wallpapers/Decadence_3.png",
+    "Wallpapers/Decadence_4.png",
+    "Wallpapers/Decadence_5.png",
+    "Wallpapers/Decadence_6.png",
+    "Wallpapers/Decadence_7.png",
+    "Wallpapers/Decadence_8.png",
+    "Wallpapers/Decadence_9.png"
+  ],
+  "colors": {
+    "background": {
+      "primary": "#0d0d0d",
+      "secondary": "#1a1a1a",
+      "tertiary": "#252525",
+      "elevated": "#2d2d2d",
+      "surface": "#1e1e1e"
+    },
+    "text": {
+      "primary": "#e8e4df",
+      "secondary": "#a8a29e",
+      "muted": "#6b6560",
+      "on_accent": "#0d0d0d"
+    },
+    "accent": {
+      "primary": "#d4a843",
+      "secondary": "#b8922f",
+      "tertiary": "#c9973e",
+      "bright": "#e8c05a",
+      "dim": "#8a6d2b"
+    },
+    "marble": {
+      "primary": "#f5f0eb",
+      "secondary": "#d9d4cf",
+      "tertiary": "#b8b3ae"
+    },
+    "border": {
+      "subtle": "#2a2a2a",
+      "default": "#3d3d3d",
+      "strong": "#525252",
+      "accent": "#d4a843"
+    },
+    "state": {
+      "success": "#5a9e6f",
+      "warning": "#d4a843",
+      "error": "#c45c5c",
+      "info": "#5a8eb8"
+    }
+  },
+  "semantic": {
+    "window_bg": "#0d0d0d",
+    "window_fg": "#e8e4df",
+    "titlebar_bg": "#1a1a1a",
+    "titlebar_fg": "#e8e4df",
+    "header_bg": "#252525",
+    "sidebar_bg": "#141414",
+    "card_bg": "#1e1e1e",
+    "button_bg": "#2d2d2d",
+    "button_hover": "#3d3d3d",
+    "button_active": "#d4a843",
+    "input_bg": "#1a1a1a",
+    "input_border": "#3d3d3d",
+    "input_focus": "#d4a843",
+    "selection_bg": "#d4a843",
+    "selection_fg": "#0d0d0d",
+    "scrollbar_bg": "#1a1a1a",
+    "scrollbar_thumb": "#3d3d3d",
+    "tooltip_bg": "#252525",
+    "tooltip_fg": "#e8e4df"
+  }
+}
