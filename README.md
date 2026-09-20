@@ -68,15 +68,17 @@ Dark charcoal theme with golden accents and marble white, designed for [Omarchy]
 
 ## Features
 
-- **Omarchy-native** — installs as a standard Omarchy theme and applies to the whole desktop: Hyprland, Waybar, SDDM/lock screen, terminals and apps.
+- **Omarchy-native** — installs as a standard Omarchy theme and applies to the whole desktop: Hyprland, Waybar, lock screen, terminals and apps.
+- **Styled Hyprland** — golden gradient active borders, warm blur and refined animations via `hyprland.lua`.
+- **Styled lock screen** — `hyprlock.conf` with blurred backdrop, marble text and golden accents.
 - **9 exclusive wallpapers** — original marble-and-gold artwork in 4K UHD (3870×2160, 16:9).
 - **Full palette** — `colors.toml` for Omarchy plus `palette.json` with extended background/accent/marble/border/state tokens for custom apps.
-- **Styled lock screen** — dedicated `unlock.png` background for Hyprlock.
 
 ## Requirements
 
-- [Omarchy](https://omarchy.org/) (Quattro or newer) running on Arch Linux / Hyprland
+- [Omarchy](https://omarchy.org/) **Quattro or newer** running on Arch Linux / Hyprland
 - `omarchy` CLI available in `$PATH`
+- Optional: [Hyprlock](https://github.com/hyprwm/hyprlock) for the styled lock screen
 
 ## Installation
 
@@ -161,12 +163,15 @@ omarchy theme uninstall decadence
 
 ```
 decadence-omarchy-theme/
-├── backgrounds/          # 9 wallpapers, 4K UHD, 3870×2160
-├── colors.toml           # Omarchy color definitions
-├── palette.json          # Extended palette & semantic tokens
-├── preview.png           # Desktop preview
-├── preview-unlock.png    # Lock screen preview
-└── unlock.png            # Lock screen background
+├── .omarchy-theme.yml     # Theme manifest (gallery, category)
+├── backgrounds/           # 9 wallpapers, 4K UHD, 3870×2160
+├── colors.toml            # Omarchy color definitions
+├── hyprland.lua           # Hyprland decoration, borders, animations
+├── hyprlock.conf          # Styled lock screen
+├── palette.json           # Extended palette & semantic tokens
+├── preview.png            # Desktop preview
+├── preview-unlock.png     # Lock screen preview
+└── unlock.png             # Lock screen background
 ```
 
 ## Wallpapers
@@ -200,8 +205,22 @@ Palette sources of truth:
 Quick tips:
 
 - Change `accent` in `colors.toml` to recolor bars, borders and highlights.
-- Swap the lock screen image by replacing `unlock.png` (any 16:9 image works).
+- Swap the lock screen image by replacing `unlock.png` (any 16:9 image works), or edit `hyprlock.conf`.
 - Wallpapers live in `backgrounds/` — add or replace files and point your wallpaper tool at the new path.
+
+## Changelog
+
+### 1.1.0
+
+- Added `.omarchy-theme.yml` manifest for theme galleries.
+- Added `hyprlock.conf` — styled Hyprlock lock screen (blurred screenshot, golden accents).
+- Added `hyprland.lua` — golden gradient active borders, warm blur, refined gaps and animations.
+- Fixed wallpaper paths in `palette.json`.
+- Wallpapers re-encoded from 5K (5504×3072) to 4K UHD (3870×2160) with no cropping.
+
+### 1.0.0
+
+- Initial release: Omarchy Quattro color scheme, 9 exclusive wallpapers, palette tokens.
 
 ## License
 

@@ -2,15 +2,15 @@
   "name": "Decadence",
   "description": "Тёмная тема с золотыми акцентами и мраморным белым",
   "wallpapers": [
-    "Wallpapers/Decadence_1.png",
-    "Wallpapers/Decadence_2.png",
-    "Wallpapers/Decadence_3.png",
-    "Wallpapers/Decadence_4.png",
-    "Wallpapers/Decadence_5.png",
-    "Wallpapers/Decadence_6.png",
-    "Wallpapers/Decadence_7.png",
-    "Wallpapers/Decadence_8.png",
-    "Wallpapers/Decadence_9.png"
+    "backgrounds/Decadence_01.png",
+    "backgrounds/Decadence_02.png",
+    "backgrounds/Decadence_03.png",
+    "backgrounds/Decadence_04.png",
+    "backgrounds/Decadence_05.png",
+    "backgrounds/Decadence_06.png",
+    "backgrounds/Decadence_07.png",
+    "backgrounds/Decadence_08.png",
+    "backgrounds/Decadence_09.png"
   ],
   "colors": {
     "background": {
