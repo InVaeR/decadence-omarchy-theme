@@ -1,55 +1,56 @@
 <div style="text-align: center;">
-
   <pre style="
     display: inline-block;
     text-align: left;
     font-family: 'Courier New', monospace;
     font-size: 14px;
-    line-height: 1.4;
-    background: #1e1e1e;
-    color: #ffb86c;
+    line-height: 1.5;
+    background: #0d0d0d;
+    color: #d4a843;
     padding: 15px 30px;
     border-radius: 10px;
     margin: 10px auto;
   ">
-
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣀⣀⢀⣠⣶⣶⡂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⣿⣿⣿⣿⣿⣿⢛⢛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⡾⣁⣿⣿⣿⣿⣿⣿⣿⡉⠀⠀⠀⠀⠀⠀⠀⠙⢻⢀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⡏⢡⣿⣿⣿⣿⣿⣿⣿⢿⣷⠀⠀⠀⠀⠀⠀⡀⠀⠘⢿⡇⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⠇⣼⣿⣿⣟⠉⠉⠉⣿⣿⡏⠀⠀⠀⠀⢀⡜⠇⠀⠀⣈⡁⡘⡿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⠀⣿⣿⢟⠈⠂⠄⠀⣿⣿⡧⠀⠀⢴⣾⡯⠀⠀⠀⠰⣿⠏⣸⡇
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⡄⠘⠁⢀⣾⣿⣷⣾⣿⣿⣿⡄⢶⣽⣿⣿⣶⣶⣤⣀⡡⢸⠟⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⡇⢸⣿⣿⣿⣿⣿⣿⣿⠛⠋⠀⠈⣇⠹⡉⠘⣠⠉⠟⠈⠁⡀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⡟⣿⡇⢸⣿⣿⣿⣿⣿⣿⣿⢀⡀⠀⠀⠸⢀⣆⠀⡏⠀⠀⠀⠀⡓⠄
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⠃⣿⡇⠀⡿⣿⣿⢻⣿⣿⣿⣿⠷⠆⠀⠀⠋⠉⠄⡵⠀⠀⠀⠀⡀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⠀⢸⠀⠀⠀⠹⢿⣿⣿⣿⠟⣀⣤⣤⠤⠀⠀⠀⠡⠇⠀⠀⠀⠀⠁⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣏⠘⠀⠀⠀⢀⠸⣿⣿⣷⣿⠏⠉⠀⠀⠀⠠⠀⠀⡁⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⠀⠀⠀⠀⠀⠀⠻⣿⠟⣿⣿⣿⣿⠿⠔⠀⠀⠀⠂⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠈⢿⡇⡆⠀⠀⠀⠀⠀⠀⠈⠙⠛⠛⠁⠀⠀⠀⢴⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠘⡇⣹⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣄⠀⠀⢹⣿⡆⠀⠀⠀⠀⡆⠀⠀⠀⠀⠀⠀⠀⠀⢘⡆⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⡆⠀⣧⣿⡇⠀⠀⠀⠀⣧⠀⠀⠀⠀⠀⠀⠀⠀⠸⡆⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⡁⠀⣻⣿⡇⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠇⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿⣿⠇⠀⣿⣿⠇⠀⠀⠀⠀⢸⣿⣳⡀⠀⠀⠀⠀⠀⠀⠃⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⠟⣴⡇⠀⣸⣿⡁⠀⠀⠀⠀⠀⠈⠿⢻⣇⠀⠀⠀⠀⠀⠈⢀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⣔⣧⡼⠟⠁⣴⣿⣿⠃⠀⠀⠀⠀⠀⠀⠰⣼⣿⡀⠀⠀⠀⠀⠀⠀⠄⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢀⣠⣮⣬⣵⣶⣾⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⣴⣿⣼⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⢀⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⠀⠀⢻⣿⣶⣶⣿⣷⣿⣿⣷⣤⣴⣇⠀⠐⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠈⠛⠹⢟⣹⣿⣿⣿⣿⣿⣿⣿⠦⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⠀⠀⠀⠀⠀⠀⢀⣠⣾⣿⣿⣿⣿⣿⣯⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⣸⠋⠷⠻⢿⣿⣿⠟⢩⣿⡟⡇⢹⣀⢸⣧⠀⠀⢡⣾⣿⣾⣟⢿⣿⡿⠽⠿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠁⠀⠈⠀⠊⠁⠀⠀⠈⢻⣧⠀⠀⠙⢦⣽⣇⠈⣿⣿⣿⣿⣿⢢⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⢀⠀⠀⠀⠙⠉⠀⠸⠿⠿⠍⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠟⠁⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣶⢕⠄⠄⢴⣽⠕⢕⠕⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣼⣿⣿⢗⢝⢵⢝⢝⢏⢄⢅⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢴⠟⢽⣿⢿⢿⣷⣿⣿⢿⣿⣿⢟⢝⢅⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⠟⢱⢽⢅⣽⣿⣿⣿⣿⢿⢿⢝⢽⠝⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢽⠅⠝⢁⢽⣿⣿⣿⣿⣿⣿⢵⢍⠁⠁⠀⠀⠀⠀⠀⠀⠀⠀⠕⠙⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢴⣝⠅⢑⣿⣿⣿⣿⣿⣿⢿⢿⢵⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⢵⠅⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣟⠀⢜⣿⣿⢽⠿⠟⠝⠝⢝⢕⢝⠕⠁⠀⠀⠀⠀⠀⠀⢔⠄⠀⠁⠅⠑⠄⢔⢄
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⠗⠀⢹⢿⣷⠕⢅⠄⠁⠄⢑⢵⣿⡅⠀⠀⠀⠀⠀⣴⠜⠁⠁⠀⠁⢄⠅⠅⢕⠕
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢼⣿⣿⠇⠀⢝⠝⠁⠄⢁⣄⠀⠄⢝⣽⢿⣅⠀⠀⠀⢕⠕⠕⠁⠀⠁⠀⠀⠕⠕⢁⢽⠁
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⢟⣿⢷⠄⢙⠅⢀⢴⠽⢕⢵⣽⣿⣽⣿⢿⠅⠕⢵⠕⢑⠕⠕⠅⠔⠄⠀⠄⠀⠵⠉⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢘⢽⠝⢽⢽⠀⢹⣷⣿⣵⢷⣿⣿⣿⣟⠝⠉⠁⠁⠀⠙⠄⠑⠅⠅⢅⠄⠅⠝⠁⠁⠅⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢝⠅⢽⢽⠄⢽⣿⢿⣿⢿⣿⣿⣿⣟⠅⠀⠀⠀⠀⠀⠅⠀⠅⠁⢼⠁⠀⠀⠀⠀⠀⠁⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠅⠁⠕⢟⠁⠙⢕⢽⢽⣟⣿⢿⣿⣿⣷⣵⢄⠄⠄⠀⠀⠝⠄⠀⠈⠄⠀⠀⠀⠀⠀⠁⠐
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢕⠁⠄⠏⠀⠀⠅⠝⢵⢅⢽⢿⣿⢿⠟⠑⠁⠁⠀⠀⠀⠁⠀⠁⠐⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢵⠁⢴⠅⠀⠀⠀⠁⠅⢝⢕⢝⢝⢉⢡⠴⠟⠝⠑⠁⠀⠄⠄⠀⠄⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢽⠕⠔⠁⠀⠀⠀⠁⠄⢑⢕⢝⢵⢝⢕⢅⢄⢀⢀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢅⢕⠄⠁⠀⠀⠀⠀⠀⠁⠕⠝⠕⢝⢵⢗⢽⠟⠕⠁⠀⠀⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠅⢝⠅⢑⠀⠀⠀⠀⠀⠁⠀⠁⠀⠉⠕⠙⠁⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄⠁⢅⠁⢅⠁⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠄⢀⠀⠀⠄⠀⠅⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠁⠕⢕⢵⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠄⠅⠀⠅⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⢅⠄⠁⢄⢽⢕⠀⠀⠀⠀⠄⠀⠅⠀⠀⠀⠄⠀⠐⠀⠀⠀⠀⠀⠅⠀⠀⠀⢀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢔⢝⠅⠀⢔⢽⣽⠅⠀⠀⠀⠀⠀⢕⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠅⠀⠄⠁⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢕⠅⠄⠀⠐⢽⣿⠅⠀⠀⠀⠀⠀⢝⢅⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠑⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠜⢕⢕⠅⠀⠄⠝⠕⠁⠀⠀⠀⠀⠀⢙⢕⢑⠄⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠄⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠕⢁⢔⠁⠀⢀⠕⠁⠄⠁⠀⠀⠀⠀⠀⠁⠕⠝⢕⠁⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠄⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠔⠅⢴⢝⠕⠁⢔⢝⢕⠕⠁⠀⠀⠀⠀⠀⠀⠁⠄⠅⢕⠅⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠕⠑⠅⠁⣀⢔⣵⢝⡵⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠅⠕⢄⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⣠⣴⣿⣵⢕⢽⢿⢿⢽⢵⢝⠅⠀⠀⠀⠀⢄⢄⢄⢄⠁⢕⢝⢕⢕⣵⢅⠄⠀⠄⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢤⣼⣿⣿⣿⢿⣿⣿⣷⢝⢵⢽⢕⠅⠀⠀⠀⠀⠀⠙⢕⢝⢵⢝⠕⢕⢵⢝⢿⢝⢕⠅⢄⠅⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⢀⠙⢿⢿⣿⢿⣿⢿⢽⢟⢽⢝⢕⢝⢕⢅⠄⠀⠀⠀⠀⠀⠅⠁⠕⠕⢥⢝⢕⢝⠕⢝⢕⢝⢵⢕⠅⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⢴⠅⢕⢝⢽⢟⢝⢝⢵⢝⢕⠝⢵⠝⢝⠀⠄⠀⠀⠀⠀⠀⠀⢅⢀⢕⢕⢝⢵⢝⢕⢝⢕⢝⢕⠕⠀⠀⠀⠀⠀⠄⠀⠀⠀⠀⠀
+⠀⢐⠕⠑⠕⢝⠕⢝⢕⢝⢕⢝⢅⠕⠕⠁⢕⠀⠀⢅⠄⠀⠀⠀⢤⢕⢕⢝⢕⢝⢕⢝⢕⢑⢕⠝⠕⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠑⠅⠁⠅⠀⠔⠁⠅⠁⠄⠑⠕⢅⠄⠁⠀⠕⠄⠙⢕⠀⠀⢕⢕⢝⢵⢝⢕⠄⠅⠁⠁⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠁⠀⠁⠀⠀⠄⠁⠄⠁⠄⠁⠅⢟⠅⠁⠄⠀⠀⠑⠅⠅⠄⠙⢕⠝⢕⠝⢕⠁⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
   </pre>
 </div>
 
 # Decadence — Omarchy Theme
 
-Dark theme with golden accents and marble white, designed for [Omarchy](https://omarchy.org/).
+Dark charcoal theme with golden accents and marble white, designed for [Omarchy](https://omarchy.org/) on Hyprland. Includes a full Omarchy color scheme, semantic UI tokens and nine original 4K marble-and-gold wallpapers.
 
 <div align="center">
 
@@ -64,6 +65,18 @@ Dark theme with golden accents and marble white, designed for [Omarchy](https://
   <a href="preview.png"><img src="preview.png" alt="Decadence theme preview" width="900"></a>
   <a href="preview-unlock.png"><img src="preview-unlock.png" alt="Hyprlock unlock screen preview" width="900"></a>
 </div>
+
+## Features
+
+- **Omarchy-native** — installs as a standard Omarchy theme and applies to the whole desktop: Hyprland, Waybar, SDDM/lock screen, terminals and apps.
+- **9 exclusive wallpapers** — original marble-and-gold artwork in 4K UHD (3870×2160, 16:9).
+- **Full palette** — `colors.toml` for Omarchy plus `palette.json` with extended background/accent/marble/border/state tokens for custom apps.
+- **Styled lock screen** — dedicated `unlock.png` background for Hyprlock.
+
+## Requirements
+
+- [Omarchy](https://omarchy.org/) (Quattro or newer) running on Arch Linux / Hyprland
+- `omarchy` CLI available in `$PATH`
 
 ## Installation
 
@@ -87,6 +100,12 @@ After switching, the theme applies automatically. To force a reload:
 
 ```bash
 omarchy theme reload
+```
+
+### Uninstall
+
+```bash
+omarchy theme uninstall decadence
 ```
 
 ## Palette
@@ -138,29 +157,11 @@ omarchy theme reload
   </tbody>
 </table>
 
-## Terminal colors
-
-<details>
-<summary>Show terminal palette</summary>
-
-| Color   | Hex       | Bright          | Hex       |
-| ------- | --------- | --------------- | --------- |
-| Red     | `#c45c5c` | Bright Red      | `#e87171` |
-| Yellow  | `#d4a843` | Bright Yellow   | `#e8c05a` |
-| Orange  | `#c9973e` |                 |           |
-| Green   | `#5a9e6f` | Bright Green    | `#6fb889` |
-| Cyan    | `#5a8eb8` | Bright Cyan     | `#7ba5c8` |
-| Blue    | `#5a8eb8` | Bright Blue     | `#7ba5c8` |
-| Magenta | `#8a6d2b` | Bright Magenta  | `#b8922f` |
-| Brown   | `#6b6560` |                 |           |
-
-</details>
-
 ## Files
 
 ```
 decadence-omarchy-theme/
-├── backgrounds/          # 9 wallpapers, 5504×3072
+├── backgrounds/          # 9 wallpapers, 4K UHD, 3870×2160
 ├── colors.toml           # Omarchy color definitions
 ├── palette.json          # Extended palette & semantic tokens
 ├── preview.png           # Desktop preview
@@ -170,8 +171,13 @@ decadence-omarchy-theme/
 
 ## Wallpapers
 
-Nine original marble-and-gold wallpapers (5504×3072) are included in
-[`backgrounds/`](backgrounds/).
+Nine original marble-and-gold wallpapers in 4K UHD (3870×2160, 16:9) are included in
+[`backgrounds/`](backgrounds/). To use a specific one, point your wallpaper tool
+(e.g. `hyprpaper`, `swww`) at the file:
+
+```bash
+~/.config/omarchy/themes/decadence/backgrounds/Decadence_03.png
+```
 
 <details>
 <summary>Gallery</summary>
@@ -183,6 +189,19 @@ Nine original marble-and-gold wallpapers (5504×3072) are included in
 | <img src="backgrounds/Decadence_07.png" alt="Wallpaper 07" width="280"> | <img src="backgrounds/Decadence_08.png" alt="Wallpaper 08" width="280"> | <img src="backgrounds/Decadence_09.png" alt="Wallpaper 09" width="280"> |
 
 </details>
+
+## Customization
+
+Palette sources of truth:
+
+- [`colors.toml`](colors.toml) — core colors consumed by Omarchy (`accent`, `background`, `foreground`, terminal ANSI colors, etc.). Edit and run `omarchy theme reload` to apply.
+- [`palette.json`](palette.json) — extended tokens (surfaces, borders, states, semantic UI roles) if you want to reuse the scheme in your own dotfiles.
+
+Quick tips:
+
+- Change `accent` in `colors.toml` to recolor bars, borders and highlights.
+- Swap the lock screen image by replacing `unlock.png` (any 16:9 image works).
+- Wallpapers live in `backgrounds/` — add or replace files and point your wallpaper tool at the new path.
 
 ## License
 
