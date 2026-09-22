@@ -1,0 +1,22 @@
+{
+  // Шрифт с поддержкой Braille
+  //"editor.fontFamily": "'DejaVu Sans Mono', 'Noto Sans Mono', monospace",
+  
+  // Размер шрифта (подбери под себя)
+  "editor.fontSize": 14,
+  
+  // КРИТИЧНО: line-height для плотного отображения артов
+  "editor.lineHeight": 16,
+  
+  // Отключаем перенос строк (арты должны быть как есть)
+  "editor.wordWrap": "off",
+  
+  // Убираем вертикальные линейки
+  "editor.rulers": [],
+  
+  
+  // Цвет фона редактора (опционально)
+  "workbench.colorCustomizations": {
+    "editor.background": "#0d0d0d"
+  }
+}
