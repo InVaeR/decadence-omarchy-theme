@@ -1,10 +1,3 @@
-```
-⠀⣿⠛⠛⠛⣶⠀⣿⠛⠛⠛⠛⠀⣠⡾⠛⠛⠛⠀⢀⣿⠛⣿⡀⠀⣿⠛⠛⠛⣶⠀⣿⠛⠛⠛⠛⠀⣿⠀⠀⠀⣿⠀⣠⡾⠛⠛⠛⠀⣿⠛⠛⠛⠛⠀
-⠀⣿⠀⠀⠀⣿⠀⣿⣀⣀⠀⠀⠀⣿⠀⠀⠀⠀⠀⣿⣀⣀⣀⣿⠀⣿⠀⠀⠀⣿⠀⣿⣀⣀⠀⠀⠀⣿⢷⣀⠀⣿⠀⣿⠀⠀⠀⠀⠀⣿⣀⣀⠀⠀⠀
-⠀⣿⠀⠀⠀⣿⠀⣿⠉⠉⠀⠀⠀⣿⠀⠀⠀⠀⠀⣿⠉⠉⠉⣿⠀⣿⠀⠀⠀⣿⠀⣿⠉⠉⠀⠀⠀⣿⠀⠉⢷⣿⠀⣿⠀⠀⠀⠀⠀⣿⠉⠉⠀⠀⠀
-⠀⣿⣤⣤⣤⠿⠀⣿⣤⣤⣤⣤⠀⠙⢷⣤⣤⣤⠀⣿⠀⠀⠀⣿⠀⣿⣤⣤⣤⠿⠀⣿⣤⣤⣤⣤⠀⣿⠀⠀⠀⣿⠀⠙⢶⣤⣤⣤⠀⣿⣤⣤⣤⣤⠀
-```
-
 # Decadence — Omarchy Theme
 
 Dark charcoal theme with golden accents and marble white, designed for [Omarchy](https://omarchy.org/) on Hyprland. Includes a full Omarchy color scheme, semantic UI tokens and nine original 4K marble-and-gold wallpapers.
@@ -18,10 +11,14 @@ Dark charcoal theme with golden accents and marble white, designed for [Omarchy]
 
 </div>
 
-<div align="center">
-  <a href="preview.png"><img src="preview.png" alt="Decadence theme preview" width="900"></a>
-  <a href="preview-unlock.png"><img src="preview-unlock.png" alt="Hyprlock unlock screen preview" width="900"></a>
-</div>
+```
+###~-_   ###~~   e##~-_       e      ###~-_   ###~~  ###b    |  e##~-_  ###~~ 
+###   \  ###___ d###   \     d#b     ###   \  ###___ |Y##b   | d###   \ ###___
+###    | ###    ####        /Y##b    ###    | ###    | Y##b  | ####     ###   
+###    | ###    ####       /  Y##b   ###    | ###    |  Y##b | ####     ###   
+###   /  ###    Y###   /  /____Y##b  ###   /  ###    |   Y##b| Y###   / ###   
+###_-~   ###___  "##_-~  /      Y##b ###_-~   ###___ |    Y###  "##_-~  ###___
+```
 
 ## Features
 
